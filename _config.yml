@@ -1,0 +1,14 @@
+layout_spectrum: 0.824257981730625
+typography_spectrum: 0.27766427770256996
+color:
+  brandStrength: 0.5120233616326004
+  lightness: 0.592654172796756
+  saturation: 0.6450191410258412
+  rhythmicContrast: 0.5900828319136053
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Castellano
